@@ -1,0 +1,3 @@
+[submodule "src/ros2_pkgs_"]
+	path = src/ros2_pkgs_
+	url = https://github.com/shanpenghui/ros2_pkgs_.git
