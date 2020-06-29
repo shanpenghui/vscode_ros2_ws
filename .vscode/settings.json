@@ -3,5 +3,5 @@
         "/opt/ros/dashing/lib/python3.6/site-packages"
     ],
     "cmake.configureOnOpen": false,
-    "cmake.sourceDirectory": "${workspaceFolder}/src/cpp_pubsub"
+    "cmake.sourceDirectory": "${workspaceFolder}/src/ros2_pkgs_"
 }
