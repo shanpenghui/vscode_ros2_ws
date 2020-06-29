@@ -20,6 +20,6 @@ If want to change debug target, just modify the code in launch.json
 is responsed for 'publisher_member_function.cpp'
     change into
 ```
-"program": "install/ros2_pkgs_/lib/ros2_pkgs_/talker"
+"program": "install/ros2_pkgs_/lib/ros2_pkgs_/listener"
 ```
 is responsed for 'subscriber_member_function.cpp'
