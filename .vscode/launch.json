@@ -8,7 +8,7 @@
             "name": "debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "install/ros2_pkgs_/lib/ros2_pkgs_/talker",
+            "program": "${workspaceFolder}/install/ros2_pkgs_/lib/ros2_pkgs_/talker",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
